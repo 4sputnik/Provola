@@ -8,3 +8,6 @@ converts into .mgz that are sent in a separate folder.
 
 -evoprovola works on any depth and the search is customizable,
  but the dicom header must be well characterized 
+
+-todo: poter dare le ricerche come input da terminale
+
